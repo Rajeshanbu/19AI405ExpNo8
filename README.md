@@ -107,7 +107,8 @@ else:
 <hr>
 <h2>Output:</h2>
 
-![Screenshot 2024-09-26 093040](https://github.com/user-attachments/assets/37028d02-787a-4d0f-9037-a7cb2c205dcb)
+![888](https://github.com/user-attachments/assets/675686b2-0124-4ebb-9e65-130385828501)
+
 
 <hr>
 <h2>Result:</h2>
